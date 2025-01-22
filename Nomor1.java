@@ -1,5 +1,6 @@
 public class Nomor1{
      public static void main(String[] args) {
+          Scanner scanner = new Scanner (system.in);
         public static int hitung biaya taksi () {
         if (kilometer < 3 kilometer) {
              return 20000;
